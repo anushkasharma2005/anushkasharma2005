@@ -5,6 +5,8 @@
 </a>
 
 ---
+
+
 ## Skill Set:
 
 <table><tr><td valign="top" width="25%">
@@ -38,32 +40,37 @@
 
 ---
 
-### GitHub Contribution Chart
-<a href="https://github.com/KenanGain">
-    <img src="https://ghchart.rshah.org/KenanGain" alt="KenanGain's GitHub Contribution Chart">
-</a>
 
+<h2>Git Stats</h2>
 
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <a href="https://gitroll.io/profile/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
-  <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/KenanGain?theme=dark" alt="KenanGain's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for KenanGain" width="400">
-
-
-</details>
-
-
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=anushkasharma2005&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkasharma2005&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkasharma2005&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushkasharma2005&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anushkasharma2005&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
 
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=anushkasharma2005&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushkasharma2005&theme=highcontrast&hide_border=true">
 
 ---
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
