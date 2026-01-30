@@ -47,7 +47,7 @@
  
   <img src="https://streak-stats.demolab.com/?user=anushkasharma2005&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkasharma2005&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkasharma2005&custom_title=Anushka's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
@@ -66,7 +66,7 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anushkasharma2005&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=anushkasharma2005&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Anushka's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushkasharma2005&theme=highcontrast&hide_border=true">
 
@@ -84,7 +84,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anushkasharma2005&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=anushkasharma2005&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
