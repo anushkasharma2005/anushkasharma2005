@@ -1,13 +1,13 @@
 *****************************************  UNDER DEVELOPMENT ***********************************************
 
 <div align = "center"> 
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Anushka+Sharma" alt="Undergraduate Researcher"/>
-</a>
+</a> -->
 </div>
 
 <div align="center">
-
+Anushka Sharma
 **Undergraduate Researcher · Computational Natural Sciences · Cosmology**
 
 </div>
