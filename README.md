@@ -109,7 +109,7 @@ Replication, fault tolerance, locking, LRU caching
 ---
 
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="500"/>
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="500"/> -->
 </div>
 
 
