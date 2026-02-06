@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-Anushka Sharma
+<h2>**Anushka Sharma**</h2>
+    
 **Undergraduate Researcher · Computational Natural Sciences · Cosmology**
 
 </div>
