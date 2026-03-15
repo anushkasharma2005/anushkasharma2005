@@ -1,6 +1,4 @@
-*****************************************  UNDER DEVELOPMENT ***********************************************
-
-<div align = "center"> 
+<!-- <div align = "center"> 
 <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Anushka+Sharma" alt="Undergraduate Researcher"/>
 </a> -->
@@ -13,22 +11,36 @@
 
 </div>
 
----
-
 
 ## About
 
 - Dual Degree: **B.Tech CSE + M.Sc Computational Natural Sciences**  
 - Institute: **IIIT Hyderabad**
-- Research interests: Early Universe Cosmology, Inflation, PBHs  
-- Enjoys: Linux, numerical simulations, derivations that actually close  
+- Research interests: Early Universe Cosmology, Inflation, PBHs 
 
----
+
+
+## Research
+
+<!-- <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="260"/>-->
+
+**Undergraduate Researcher — CCNSB Lab**  
+*Advisor: Prof. Diganta Das* 
+- Studying inflationary perturbations and PBH formation  
+
+
+
+
 ## GitHub Stats
 
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=anushkasharma2005&show_icons=true&theme=dracula&hide_border=true" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=anushkasharma2005&theme=dracula&hide_border=true" />
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=anushkasharma2005&hide_border=true&border_radius=15&show_icons=true&theme=dracula" alt="Anushka's GitHub stats">
+
 
 
  <table>
@@ -45,38 +57,11 @@
   </tr>
 </table>
 
+
+
 </div>
 
----
-
-## Research
-
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="260"/>
-
-**Undergraduate Researcher — CCNSB Lab**  
-*Advisor: Prof. Diganta Das*
-
-- Derived Friedmann & Raychaudhuri equations from the Einstein–Hilbert action  
-- Modeled recombination and relic neutrino backgrounds using Boltzmann & Saha equations  
-- Studying inflationary perturbations and PBH formation  
-
----
-
-
-## Selected Projects
-
-**SPIDS**  
-Simple Python Inflation Dynamics Simulator in FLRW spacetime  
-
-**POSIX Shell (C)**  
-Pipes, redirection, background jobs, signal handling  
-
-**Distributed Network File System**  
-Replication, fault tolerance, locking, LRU caching  
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+<!--
 
 ## Tech Stack
 
@@ -91,68 +76,20 @@ Replication, fault tolerance, locking, LRU caching
 **Languages:** C, C++, Python, JavaScript, SQL  
 **Tools:** Linux, Git, Docker, LaTeX, Vim  
 **Libraries:** NumPy, SciPy, Pandas, PyTorch  
+-->
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
-
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/> -->
+<!--
 ## Links
 
 - Email: anushka.sharma@research.iiit.ac.in  
-- GitHub: https://github.com/anushkasharma2005  
 - LinkedIn: https://www.linkedin.com/in/anushka-sharma-21283a293/  
-- Google Scholar: https://scholar.google.com/citations?user=Lw0SlY8AAAAJ  
 
----
+-->
 
 <div align="center">
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="500"/> -->
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-
----
 
 
 ## Skill Set:
@@ -188,7 +125,7 @@ Replication, fault tolerance, locking, LRU caching
 
 ---
 
-
+<!--
 <h2>Git Stats</h2>
 
 <div align="center">
@@ -214,11 +151,12 @@ Replication, fault tolerance, locking, LRU caching
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anushkasharma2005&hide_border=true&border_radius=15&show_icons=true&theme=dracula" alt="Anushka's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushkasharma2005&theme=dracula&hide_border=true">
 
 ---
+-->
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -230,6 +168,7 @@ Replication, fault tolerance, locking, LRU caching
 
 ###
 
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anushkasharma2005&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -241,5 +180,4 @@ Replication, fault tolerance, locking, LRU caching
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkasharma2005/anushkasharma2005/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anushkasharma2005/anushkasharma2005/output/pacman-contribution-graph.svg">
 </picture>
-
-###
+ -->
