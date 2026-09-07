@@ -37,12 +37,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=anushkasharma2005&show_icons=true&theme=dracula&hide_border=true" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=anushkasharma2005&theme=dracula&hide_border=true" />
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=anushkasharma2005&hide_border=true&border_radius=15&show_icons=true&theme=dracula" alt="Anushka's GitHub stats">
-
-
-
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=anushkasharma2005&hide_border=true&border_radius=15&show_icons=true&theme=dracula" alt="Anushka's GitHub stats">
  <table>
   <tr>
     <td>
@@ -56,8 +51,7 @@
     </td>
   </tr>
 </table>
-
-
+-->
 
 </div>
 
